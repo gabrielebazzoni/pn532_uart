@@ -1,5 +1,5 @@
 #include <string.h>
-#include "pn532.h"
+#include "pn532_uart.h"
 #include "driver/uart.h"
 #include "esp_mac.h"
 
